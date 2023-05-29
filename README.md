@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Ana+Luiza;I'm+20+years+old;I'm+from+Brazil;I'm+Studying+Software+Engineering:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PedroHugoCoura&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=87CEFA&bg_color=0d1117" alt="Ana Luiza github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHugoCoura&layout=compact&hide_border=true&title_color=00BFFF&text_color=ff91a4&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=analuizataveira&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=87CEFA&bg_color=0d1117" alt="Ana Luiza github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analuizataveira&layout=compact&hide_border=true&title_color=00BFFF&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
 
