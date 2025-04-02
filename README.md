@@ -3,7 +3,7 @@
 💻 **Desenvolvedora Full Stack | Especializando-se em Go (Golang)**  
 
 🎓 Estudante de Engenharia de Software (5° ano)  
-🚀 **Foco atual:** Alta performance com Go + Dominar React Native 
+🚀 **Foco atual:** Alta performance com Go + Dominar React Native  
 🌱 **Aprendendo:** Inteligência Artificial & Modelos de ML   
 
 
