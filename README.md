@@ -1,4 +1,4 @@
-### Olá! Eu sou a Ana Luiza! <img align="right"  height="145" style="border-radius:50px;" src="https://i.pinimg.com/originals/7a/c7/1e/7ac71e72373b0fb270b3a6d72e44eea3.gif"> <br/>
+### Olá! Eu sou a Ana Luiza! <img align="right"  height="145" style="border-radius:50px;" src="https://i.pinimg.com/originals/86/0a/45/860a4575d87bebaa1b1a18490f3e96ef.gif"> <br/>
 
 💻 **Desenvolvedora Full Stack | Especializando-se em Go (Golang)**  
 
