@@ -4,10 +4,8 @@
 
 🎓 Estudante de Engenharia de Software (5° ano)  
 🚀 **Foco atual:** Alta performance com Go + Dominar React Native 
-🔍 **Paixão por:** Backend escalável, Data Science & Machine Learning  
-
 🌱 **Aprendendo:** Inteligência Artificial & Modelos de ML   
-📊 **Stack principal:** Go, Python, TypeScript, React Native, PostgreSQL  
+
 
 
 ##
