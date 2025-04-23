@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Ana Luiza! <img align="right"  height="145" style="border-radius:50px;" src="https://i.pinimg.com/originals/86/0a/45/860a4575d87bebaa1b1a18490f3e96ef.gif"> <br/>
 
-💻 **Desenvolvedora Full Stack | Especializando-se em Go (Golang)**  
+💻 **Desenvolvedora Full Stack**  
 
 🎓 Estudante de Engenharia de Software (5° ano)  
 🚀 **Foco atual:** Alta performance com Go + Dominar React Native  
