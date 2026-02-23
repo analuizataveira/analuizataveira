@@ -2,7 +2,7 @@
 
 💻 **Desenvolvedora Full Stack**  
 
-🎓  Engenheira de Software e Técnica em Telecomunicações 
+🎓  Engenheira de Software e Técnica em Telecomunicações         
 🚀 **Foco atual:** Alta performance com Go + Dominar React Native  
 🌱 **Aprendendo:** Inteligência Artificial & Modelos de ML   
 
