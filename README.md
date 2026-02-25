@@ -1,10 +1,10 @@
-### Olá! Eu sou a Ana Luiza! <img align="right"  height="145" style="border-radius:50px;" src="https://i.pinimg.com/originals/86/0a/45/860a4575d87bebaa1b1a18490f3e96ef.gif"> <br/>
+### Hi! I'm Ana Luiza! <img align="right"  height="145" style="border-radius:50px;" src="https://i.pinimg.com/originals/86/0a/45/860a4575d87bebaa1b1a18490f3e96ef.gif"> <br/>
 
-💻 **Desenvolvedora Full Stack**  
+💻 **Full Stack Developer**  
 
-🎓  Engenheira de Software e Técnica em Telecomunicações         
-🚀 **Foco atual:** Alta performance com Go + Dominar React Native  
-🌱 **Aprendendo:** Inteligência Artificial & Modelos de ML   
+🎓 Software Engineering       
+🚀 Current focus: High performance with Go + Mastering React Native         
+🌱 Learning: Artificial Intelligence & Machine Learning Models  
 
 
 ##
